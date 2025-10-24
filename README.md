@@ -1,5 +1,5 @@
 
-  #   G i t   &   G i t H u b   L a b - GHITA BELLAMINE - 22/10/2025
+  #   Git   &   Git Hub  Lab - GHITA BELLAMINE - 22/10/2025
  
 ## Lab Objectives section
 By the end of this lab, you will be able to:
